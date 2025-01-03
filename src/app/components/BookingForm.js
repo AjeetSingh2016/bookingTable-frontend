@@ -155,8 +155,8 @@ const BookingForm = ({ setSummary, setShowForm }) => {
     <div className="flex h-screen">
       {/* Left side - Image section */}
       <div
-        className="w-7/12 relative bg-cover"
-        style={{ backgroundColor: "red" }}
+        className="w-7/12 relative bg-cover bg-gray-900"
+        
       >
         <Image
           src="/image.jpg" // Path to your image in the 'public' folder
