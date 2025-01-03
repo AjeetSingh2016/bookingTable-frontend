@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
@@ -37,3 +38,6 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 # bookingTable-frontend
 # bookingTable-frontend
 # booking-frontend
+=======
+# bookingTable-frontend
+>>>>>>> f9d5bedfd28774150119539407d1d70305a1819e
